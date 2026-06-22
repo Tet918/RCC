@@ -1,5 +1,12 @@
 RCC — Rainbow Concept Computing (short)
-A short description: RCC is a multi-paradigm simulation & deployment framework (simulations, Docker, PIC, optionally quantum) for DUOM/GSPD-driven experiments and pipelines.
+A short description: RCC is an optical simulation & deployment framework (simulations, Docker,optionally integrated optical or quantum distributed system) for DUOM/GSPD-driven experiments and pipelines.
+rdot - RCC uses rdot, which potentially could have trillion variation of symbols,   for replacing bit of the binary Babel Tower.
+Rdot Dictionary- something likes Unicode dictionary,yet has much more. Specialized AI Tokens,SAIT is a must.
+SAI - Stable Artificial intelligence for the SAI-as-OS or SAI-as-Logics RCC system 
+RASM - Bijective O, O for optimization, zeroless Rainbow Assembly Language for SAI's manipulations
+DUOM - the vertical-turns-matrices Dimensional Upward Open Matrices is the optimized dimensional maths.
+GSPD - Gospel Style Prophetic Developments try to follow biblical strategies, process justice, multifacet TRUTH and good fruis oriented for instances, that've caused God's heavenly Kingdom still developing vigorously. It's also a Prosperity License variant, drafted with AI assistant.
+
 
 Quickstart
 1. Clone:
